@@ -1,0 +1,12 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "detail": {
+        "name": "mohit",
+        "password": "password1",
+        "profession": "teacher"
+      }
+    }
+  ]
+}
